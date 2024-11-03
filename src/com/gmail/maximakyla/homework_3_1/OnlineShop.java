@@ -4,5 +4,6 @@ public class OnlineShop {
     public static void main(String[] args) {
         System.out.println("Shop-online for customers");
         System.out.println("Working hours 24/7");
+        System.out.println("Thank you for choosing our store");
     }
 }
